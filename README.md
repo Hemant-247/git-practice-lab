@@ -1,2 +1,1 @@
-# git-practice-lab
-Learning Git and GitHub
+I am learning Git commands practically.
